@@ -15,7 +15,7 @@
 /*Embed Style Method */
 header {
     background: url(images/images/central_park.jpg) 0 -200px no-repeat;
-    background-size: 1500px;
+    background-size: 1500px; /*2000px to fill the screen*/
     height: 400px;
     padding-top: 100px;
     padding-left: 100px;
