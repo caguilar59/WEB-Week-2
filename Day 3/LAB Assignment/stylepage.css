@@ -1,0 +1,45 @@
+/*Cards*/
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 2%;
+    text-align: center;
+    width: 25%;
+
+  }
+  .title {
+    color: black;
+    font-size: 18px;
+  }
+
+.card-gallery {
+  display: flex;
+  margin: 20px;
+
+}
+/*Form*/
+label {
+    display: block;
+    margin: 15px 0 0 0;
+}
+input {
+    width: 300px;
+}
+input[type="radio"] {
+    width: 25px;
+}
+textarea{
+    width: 300px;
+}
+input[type="submit"] {
+    display: block;
+    margin: 20px 0 10px 0;
+    width: 100px;
+}
+footer{
+    height: 40px;
+    background-color: royalblue;
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(211, 218, 240);
+}
